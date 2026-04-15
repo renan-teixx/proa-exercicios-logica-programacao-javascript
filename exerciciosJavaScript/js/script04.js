@@ -1,3 +1,7 @@
+// a) Apresentar os quadrados dos números inteiros de 15 a 200.
+
+alert("a) Apresentar os quadrados dos números inteiros de 15 a 200.")
+
 let numero = 15
 
 do {
